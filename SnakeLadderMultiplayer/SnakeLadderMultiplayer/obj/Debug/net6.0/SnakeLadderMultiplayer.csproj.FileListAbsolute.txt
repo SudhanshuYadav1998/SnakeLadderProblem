@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\bin\Debug\net6.0\SnakeLadderMultiplayer.exe
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\bin\Debug\net6.0\SnakeLadderMultiplayer.deps.json
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\bin\Debug\net6.0\SnakeLadderMultiplayer.runtimeconfig.json
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\bin\Debug\net6.0\SnakeLadderMultiplayer.dll
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\bin\Debug\net6.0\SnakeLadderMultiplayer.pdb
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\obj\Debug\net6.0\SnakeLadderMultiplayer.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\obj\Debug\net6.0\SnakeLadderMultiplayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\obj\Debug\net6.0\SnakeLadderMultiplayer.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\obj\Debug\net6.0\SnakeLadderMultiplayer.AssemblyInfo.cs
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\obj\Debug\net6.0\SnakeLadderMultiplayer.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\obj\Debug\net6.0\SnakeLadderMultiplayer.dll
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\obj\Debug\net6.0\refint\SnakeLadderMultiplayer.dll
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\obj\Debug\net6.0\SnakeLadderMultiplayer.pdb
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\obj\Debug\net6.0\SnakeLadderMultiplayer.genruntimeconfig.cache
+C:\RFP\C_sharp\SnakeLadderMultiplayer\SnakeLadderMultiplayer\obj\Debug\net6.0\ref\SnakeLadderMultiplayer.dll
