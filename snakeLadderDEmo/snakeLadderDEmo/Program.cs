@@ -1,6 +1,4 @@
 ﻿Console.WriteLine("Welcome to snake ladder game");
-Random t=new Random();
-int Throw=t.Next(0,2);
 
     int Count = 0;
     int Start = 0;
